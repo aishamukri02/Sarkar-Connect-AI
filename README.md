@@ -1,2 +1,3 @@
-# Sarkar-Connect-AI
-AI-powered Government Assistance Platform
+# Sarkar Connect AI
+
+TODO: Document your project here
